@@ -9,3 +9,5 @@ Contributors:
 
 Yiming Pan, Lin Wang, Shujun Ye, Yiming Yu, Chun Yuan, Jinglin Zhao  
 (MS Business Analytics Program, the University of Texas at Dallas)
+
+March 2019 - May 2019
